@@ -102,7 +102,8 @@ if not os.environ.get('PARSONS_SKIP_IMPORT_ALL'):
         'SurveyGizmo',
         'Alchemer',
         'Quickbase',
-        'ActBlue'
+        'ActBlue',
+        'Slack'
     ]
 
 # Define the default logging config for Parsons and its submodules. For now the
